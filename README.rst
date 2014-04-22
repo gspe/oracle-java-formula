@@ -11,6 +11,8 @@ Formula to set up and configure Java JREs and JDKs from a tarball archive source
     
 Available states
 ================
+.. contents::
+   :local:
 
 ``oracle-java``
 ----------------
